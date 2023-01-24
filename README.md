@@ -3,3 +3,4 @@
 
 2)identifier in c progrem-------idc1
 
+3)operator in c progrem--------operator1
