@@ -4,5 +4,5 @@
 3)operator in c progrem--------operator1
 thay are all 1st q
 
-2)chick comments 1
+2)check comments 1
 
