@@ -7,3 +7,14 @@ thay are all 1st q
 2)check comments 1
 
 3)ignore comments
+
+
+
+
+
+
+
+
+
+
+9)left recursion 1
