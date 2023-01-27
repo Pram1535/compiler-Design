@@ -12,7 +12,7 @@ thay are all 1st q
 
 
 
-
+7)C program to find FIRST( )-------FIRST()
 
 
 
