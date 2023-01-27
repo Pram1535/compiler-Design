@@ -36,4 +36,9 @@ thay are all 1st q
 
 
 
+
+
+
+36)LEX program to identify and count positive and negative numbers-------PosorNeg.l1
+
 37)URL-------url.l1
