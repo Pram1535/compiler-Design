@@ -29,6 +29,10 @@ thay are all 1st q
 
 27)capital words -----capital.l
 
+28)Email-----Email.l1
+
+
+30)mobile-----mobile.l1
 
 
 
