@@ -4,7 +4,7 @@
 3)operator in c progrem--------operator1
 thay are all 1st q
 
-2)check comments 1
+2)check comments --------check comments1
 
 3)ignore comments
 
@@ -17,4 +17,6 @@ thay are all 1st q
 
 
 
-9)left recursion 1
+9)left recursion -------left recursion 1
+
+10)Left Factoring-------Left Factoring1
