@@ -20,3 +20,11 @@ thay are all 1st q
 9)left recursion -------left recursion 1
 
 10)Left Factoring-------Left Factoring1
+
+
+
+
+
+
+
+27)capital words -----capital.l
