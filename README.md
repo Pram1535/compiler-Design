@@ -22,7 +22,7 @@ thay are all 1st q
 10)Left Factoring-------Left Factoring1
 
 
-
+22)all constants--------all constant.l
 
 
 26)substring-------substring.l1
