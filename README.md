@@ -24,7 +24,7 @@ thay are all 1st q
 
 22)all constants--------all constant.l
 
-23)	Write a LEX program to count the number of Macros defined and header files included in the C program.
+23)	Write a LEX program to count the number of Macros defined and header files included in the C program.-------macro.l1
   Input Source Program: (sample.c)
 
 24)Write a LEX program to print all HTML tags in the input file.------html.l1
