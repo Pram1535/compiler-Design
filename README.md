@@ -10,7 +10,7 @@ thay are all 1st q
 
 
 
-
+8)Write a C program to find FOLLOW( ) - predictive parser for the given grammar---------follow1
 
 7)C program to find FIRST( )-------FIRST()
 
