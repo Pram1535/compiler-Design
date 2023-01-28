@@ -23,6 +23,8 @@ thay are all 1st q
 
 16)Intermediate code generators is to simplify the process of Code Generator. Write a C Program to Generate the Three address code representation for the given input statement.(backend)---------intermedite
 
+20)Write a C program to compute TRAILING( ) – operator precedence parser for the given grammar------traling.l1
+
 22)all constants--------all constant.l
 
 23)	Write a LEX program to count the number of Macros defined and header files included in the C program.-------macro.l1
