@@ -21,6 +21,7 @@ thay are all 1st q
 
 10)Left Factoring-------Left Factoring1
 
+16)Intermediate code generators is to simplify the process of Code Generator. Write a C Program to Generate the Three address code representation for the given input statement.(backend)---------intermedite
 
 22)all constants--------all constant.l
 
