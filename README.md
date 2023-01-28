@@ -57,3 +57,5 @@ Input Source Program: (sample.c)
 36)LEX program to identify and count positive and negative numbers-------PosorNeg.l1
 
 37)URL-------url.l1
+
+39)basic mathematical operations. Implement a LEX program to implement the same.--------math.l1
