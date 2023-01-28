@@ -25,6 +25,12 @@ thay are all 1st q
 22)all constants--------all constant.l
 
 
+24)Write a LEX program to print all HTML tags in the input file.------html.l1
+
+25)25.	Write a LEX program which adds line numbers to the given C program file and display the same in the standard output.------lines.l1
+Input Source Program: (sample.c)
+
+
 26)substring-------substring.l1
 
 27)capital words -----capital.l
