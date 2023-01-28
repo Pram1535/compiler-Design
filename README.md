@@ -21,6 +21,8 @@ thay are all 1st q
 
 10)Left Factoring-------Left Factoring1
 
+13)Top Down parsing ---------top Down.l1
+
 16)Intermediate code generators is to simplify the process of Code Generator. Write a C Program to Generate the Three address code representation for the given input statement.(backend)---------intermedite
 
 20)Write a C program to compute TRAILING( ) – operator precedence parser for the given grammar------traling.l1
@@ -45,7 +47,7 @@ Input Source Program: (sample.c)
 
 30)mobile-----mobile.l1
 
-
+31)vowels and consonants to the students-----------vowels and consonants.l1
 
 
 
