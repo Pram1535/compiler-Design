@@ -25,7 +25,7 @@ thay are all 1st q
 
 
 
-
+26)substring-------substring.l1
 
 27)capital words -----capital.l
 
