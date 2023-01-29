@@ -21,7 +21,11 @@ thay are all 1st q
 
 10)Left Factoring-------Left Factoring1
 
+12)a C program to construct recursive descent parsing for the given grammar-------recursive descent
+
 13)Top Down parsing ---------top Down.l1
+
+14)shift-reduce parsing from compiler -------shift-reduce
 
 15)addition
 
