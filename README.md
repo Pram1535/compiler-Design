@@ -63,3 +63,11 @@ Input Source Program: (sample.c)
 37)URL-------url.l1
 
 39)basic mathematical operations. Implement a LEX program to implement the same.--------math.l1
+
+
+
+LEX:=1. set path=C:\Program Files (x86)\GnuWin32\bin
+2. flex cal.l.txt
+3. set path=C:\MinGw\bin
+4. gcc lex.yy.c
+5. a
